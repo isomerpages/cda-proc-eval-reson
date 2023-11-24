@@ -1,0 +1,4 @@
+collections:
+  popular-resources:
+    output: true
+    order: []
