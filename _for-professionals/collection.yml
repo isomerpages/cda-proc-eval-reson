@@ -1,0 +1,4 @@
+collections:
+  for-professionals:
+    output: true
+    order: []
