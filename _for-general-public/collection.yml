@@ -1,0 +1,4 @@
+collections:
+  for-general-public:
+    output: true
+    order: []
