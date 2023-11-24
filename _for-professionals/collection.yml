@@ -2,4 +2,5 @@ collections:
   for-professionals:
     output: true
     order:
+      - Mission, Vision and Values.md
       - Our Doctors.md
