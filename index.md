@@ -21,12 +21,6 @@ sections:
         - title: Page A
           description: Page A is important too
           url: /privacy/
-  - infobar:
-      title: Infobar title
-      subtitle: Subtitle
-      description: About a sentence worth of description here
-      button: Button text
-      url: /faq/
   - infopic:
       title: Lorem ipsum dolor un vector file gamut
       id: infopic
@@ -46,4 +40,12 @@ sections:
       url: /page-url
       image: /images/image2.png
       alt: Image alt text
+  - infobar:
+      title: Lorem ipsum dolor si met un vector file gamut
+      subtitle: ENIM NOSTRODIAC
+      description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+        nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+        reprehend.
+      button: LEARN MORE
+      url: /page-url
 ---
