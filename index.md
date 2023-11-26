@@ -22,6 +22,21 @@ sections:
           description: ""
           url: /page-url
   - infopic:
+      title: Lorem ipsum dolor sit amet, consect etur adipiscing
+      subtitle: ABOUT US
+      id: infopic
+      description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+        nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+        reprehenderit .
+      button: READ MORE
+      url: /page-url
+      image: /images/graphic_1.jpg
+      alt: Image alt text
+  - resources:
+      title: Resources
+      subtitle: Add a preview and link to your Resource Room
+      id: resources
+  - infopic:
       title: Lorem ipsum dolor un vector file gamut
       id: infopic
       description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
