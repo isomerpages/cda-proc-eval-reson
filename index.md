@@ -30,7 +30,7 @@ sections:
         reprehenderit .
       button: READ MORE
       url: /page-url
-      image: /images/graphic_1.jpg
+      image: /images/graphic_1.png
       alt: Image alt text
   - resources:
       title: Resources
