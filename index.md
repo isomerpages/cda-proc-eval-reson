@@ -48,4 +48,9 @@ sections:
         reprehend.
       button: LEARN MORE
       url: /page-url
+  - resources:
+      title: News & Happenings
+      subtitle: EXPLORE
+      id: resources
+      button: SEE ALL
 ---
