@@ -27,4 +27,23 @@ sections:
       description: About a sentence worth of description here
       button: Button text
       url: /faq/
+  - infopic:
+      title: Lorem ipsum dolor un vector file gamut
+      id: infopic
+      description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+        nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor.
+      button: SEE ALL
+      url: /page-url
+      image: /images/image1.png
+      alt: Image alt text
+  - infopic:
+      title: Duis aute irure dolo in reprehenderit
+      id: infopic
+      description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
+        nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
+        reprehenderit in.
+      button: SEE ALL
+      url: /page-url
+      image: /images/image2.png
+      alt: Image alt text
 ---
