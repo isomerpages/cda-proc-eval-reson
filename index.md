@@ -11,11 +11,6 @@ sections:
       background: /images/banner.png
       button: LEARN MORE
       url: /page-url
-  - resources:
-      title: News & Happenings
-      subtitle: EXPLORE
-      id: resources
-      button: SEE ALL
   - infopic:
       title: Strong, trusted and united in keeping Singapore safe
       id: infopic
@@ -25,6 +20,11 @@ sections:
       url: /page-url
       image: /images/graphic_2.png
       alt: Image alt text
+  - resources:
+      title: News & Happenings
+      subtitle: EXPLORE
+      id: resources
+      button: SEE ALL
   - infobar:
       title: Lorem ipsum dolor si met un vector file gamut
       subtitle: ENIM NOSTRODIAC
