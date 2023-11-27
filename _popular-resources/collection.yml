@@ -2,4 +2,5 @@ collections:
   popular-resources:
     output: true
     order:
+      - Infection Control Guidelines for Healthcare Facilities.md
       - Disease and Conditions.md
