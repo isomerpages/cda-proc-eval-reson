@@ -2,5 +2,6 @@ collections:
   popular-resources:
     output: true
     order:
+      - Resources on COVID 19.md
       - Infection Control Guidelines for Healthcare Facilities.md
       - Disease and Conditions.md
