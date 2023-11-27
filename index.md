@@ -17,15 +17,13 @@ sections:
       id: resources
       button: SEE ALL
   - infopic:
-      title: Lorem ipsum dolor sit amet, consect etur adipiscing
-      subtitle: ABOUT US
+      title: Strong, trusted and united in keeping Singapore safe
       id: infopic
       description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
         nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
         reprehenderit .
-      button: READ MORE
       url: /page-url
-      image: /images/graphic_1.png
+      image: /images/graphic_2.png
       alt: Image alt text
   - infobar:
       title: Lorem ipsum dolor si met un vector file gamut
