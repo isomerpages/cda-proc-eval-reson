@@ -2,13 +2,13 @@ collections:
   popular-resources:
     output: true
     order:
-      - Pandemic Preparedness.md
-      - Opinion Pieces by NCID Experts.md
-      - Weekly Infectious Diseases Bulletin.md
-      - CDA Research Publications.md
-      - Communicable Diseases Surveillance in Singapore.md
-      - Antimicrobial Resistance.md
-      - Updates on the HIV and AIDS Situation in Singapore.md
-      - Resources on COVID 19.md
-      - Infection Control Guidelines for Healthcare Facilities.md
       - Disease and Conditions.md
+      - Infection Control Guidelines for Healthcare Facilities.md
+      - Resources on COVID 19.md
+      - Updates on the HIV and AIDS Situation in Singapore.md
+      - Antimicrobial Resistance.md
+      - Communicable Diseases Surveillance in Singapore.md
+      - CDA Research Publications.md
+      - Weekly Infectious Diseases Bulletin.md
+      - Opinion Pieces by NCID Experts.md
+      - Pandemic Preparedness.md
