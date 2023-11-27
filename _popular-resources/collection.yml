@@ -1,4 +1,5 @@
 collections:
   popular-resources:
     output: true
-    order: []
+    order:
+      - Disease and Conditions.md
