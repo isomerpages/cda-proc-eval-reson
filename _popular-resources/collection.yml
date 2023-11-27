@@ -2,6 +2,7 @@ collections:
   popular-resources:
     output: true
     order:
+      - Communicable Diseases Surveillance in Singapore.md
       - Antimicrobial Resistance.md
       - Updates on the HIV and AIDS Situation in Singapore.md
       - Resources on COVID 19.md
