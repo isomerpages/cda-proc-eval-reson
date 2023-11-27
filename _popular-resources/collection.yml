@@ -2,6 +2,7 @@ collections:
   popular-resources:
     output: true
     order:
+      - Updates on the HIV and AIDS Situation in Singapore.md
       - Resources on COVID 19.md
       - Infection Control Guidelines for Healthcare Facilities.md
       - Disease and Conditions.md
