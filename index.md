@@ -33,9 +33,10 @@ sections:
       image: /images/graphic_1.png
       alt: Image alt text
   - resources:
-      title: Resources
-      subtitle: Add a preview and link to your Resource Room
+      title: News & Happenings
+      subtitle: EXPLORE
       id: resources
+      button: SEE ALL
   - infopic:
       title: Lorem ipsum dolor un vector file gamut
       id: infopic
