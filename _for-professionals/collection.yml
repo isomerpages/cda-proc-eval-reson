@@ -2,7 +2,6 @@ collections:
   for-professionals:
     output: true
     order:
-      - Example Title.md
       - Mission, Vision and Values.md
       - Our Departments.md
       - Leadership.md
