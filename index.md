@@ -8,7 +8,7 @@ notification: ""
 sections:
   - hero:
       title: Ut Enim Adminim Veniam Quis es Nostrud
-      background: /images/banner.png
+      background: /images/banner_2.jpg
       button: LEARN MORE
       url: /page-url
   - infopic:
