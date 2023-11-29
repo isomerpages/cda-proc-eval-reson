@@ -2,6 +2,7 @@ collections:
   about-us:
     output: true
     order:
+      - CDA News.md
       - What We Do.md
       - About CDA.md
       - Our Mission, Vision, Values.md
