@@ -12,7 +12,7 @@ description: ""
             </td>
             <td rowspan="1" colspan="1">
                 <h4>Professor Leo Yee Sin</h4>
-                <p><strong>Senior Consultant</strong></p>
+                <p style="margin-top:0;"><strong>Senior Consultant</strong></p>
                 <p>
                     <strong>Credentials:</strong>
                     <br>
@@ -32,7 +32,7 @@ description: ""
             </td>
             <td rowspan="1" colspan="1">
                 <h4>Adjunct Assistant Professor Shawn Vasoo</h4>
-                <p>
+                <p style="margin-top:0;">
                     <strong>
                         Clinical Director, National Centre for Infectious Diseases 
                         <br>
@@ -58,7 +58,7 @@ description: ""
             </td>
             <td rowspan="1" colspan="1">
                 <h4>Professor David Lye</h4>
-                <p>
+                <p style="margin-top:0;">
                     <strong>
                         Director, Infectious Disease Research and Training Office
                         <br>
@@ -84,7 +84,7 @@ description: ""
             </td>
             <td rowspan="1" colspan="1">
                 <h4>Adjunct Assistant Professor Monica Chan</h4>
-                <p><strong>Senior Consultant</strong></p>
+                <p style="margin-top:0;"><strong>Senior Consultant</strong></p>
                 <p>
                     <strong>Credentials:</strong>
                     <br>
