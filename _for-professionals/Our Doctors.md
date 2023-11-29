@@ -8,7 +8,7 @@ description: ""
 	<tbody>
         <tr>
             <td rowspan="1" colspan="1">
-                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_1.png"></div>
+                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_1.png" style="min-width: 150px;"></div>
             </td>
             <td rowspan="1" colspan="1">
                 <h4>Professor Leo Yee Sin</h4>
@@ -28,7 +28,7 @@ description: ""
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_2.png"></div>
+                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_2.png" style="min-width: 150px;"></div>
             </td>
             <td rowspan="1" colspan="1">
                 <h4>Adjunct Assistant Professor Shawn Vasoo</h4>
@@ -53,7 +53,7 @@ description: ""
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_3.png"></div>
+                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_3.png" style="min-width: 150px;"></div>
                 <p></p>
             </td>
             <td rowspan="1" colspan="1">
@@ -80,7 +80,7 @@ description: ""
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_4.png"></div>
+                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_4.png" style="min-width: 150px;"></div>
             </td>
             <td rowspan="1" colspan="1">
                 <h4>Adjunct Assistant Professor Monica Chan</h4>
