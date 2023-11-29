@@ -5,14 +5,12 @@ variant: markdown
 description: ""
 ---
 <table>
-	<tbody>
+    <tbody>
         <tr>
-            <td rowspan="1" colspan="1">
-                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_1.png" style="min-width: 150px;"></div>
-            </td>
-            <td rowspan="1" colspan="1">
+            <td rowspan="1" colspan="1" width="50%">
+                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_1.png"></div>
                 <h4>Professor Leo Yee Sin</h4>
-                <p style="margin-top:0;"><strong>Senior Consultant</strong></p>
+                <p><strong>Senior Consultant</strong></p>
                 <p>
                     <strong>Credentials:</strong>
                     <br>
@@ -25,14 +23,10 @@ description: ""
                 </p>
                 <p><em>Photo Credit: National Healthcare Group</em></p>
             </td>
-        </tr>
-        <tr>
-            <td rowspan="1" colspan="1">
-                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_2.png" style="min-width: 150px;"></div>
-            </td>
-            <td rowspan="1" colspan="1">
+            <td rowspan="1" colspan="1" width="50%">
+                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_2.png"></div>
                 <h4>Adjunct Assistant Professor Shawn Vasoo</h4>
-                <p style="margin-top:0;">
+                <p>
                     <strong>
                         Clinical Director, National Centre for Infectious Diseases 
                         <br>
@@ -53,12 +47,9 @@ description: ""
         </tr>
         <tr>
             <td rowspan="1" colspan="1">
-                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_3.png" style="min-width: 150px;"></div>
-                <p></p>
-            </td>
-            <td rowspan="1" colspan="1">
+                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_3.png"></div>
                 <h4>Professor David Lye</h4>
-                <p style="margin-top:0;">
+                <p>
                     <strong>
                         Director, Infectious Disease Research and Training Office
                         <br>
@@ -77,14 +68,10 @@ description: ""
                 </p>
                 <p><em>Photo Credit: National Healthcare Group</em></p>
             </td>
-        </tr>
-        <tr>
             <td rowspan="1" colspan="1">
-                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_4.png" style="min-width: 150px;"></div>
-            </td>
-            <td rowspan="1" colspan="1">
+                <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_4.png"></div>
                 <h4>Adjunct Assistant Professor Monica Chan</h4>
-                <p style="margin-top:0;"><strong>Senior Consultant</strong></p>
+                <p><strong>Senior Consultant</strong></p>
                 <p>
                     <strong>Credentials:</strong>
                     <br>
