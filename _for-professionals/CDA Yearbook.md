@@ -7,7 +7,7 @@ description: ""
 <table>
     <tbody>
         <tr>
-            <td rowspan="1" colspan="1" width="50">
+            <td rowspan="1" colspan="1" width="50%">
                 <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_1.png"></div>
                 <h4>Professor Leo Yee Sin</h4>
                 <p><strong>Senior Consultant</strong></p>
@@ -23,7 +23,7 @@ description: ""
                 </p>
                 <p><em>Photo Credit: National Healthcare Group</em></p>
             </td>
-            <td rowspan="1" colspan="1" width="50">
+            <td rowspan="1" colspan="1" width="50%">
                 <div class="isomer-image-wrapper"><img alt="" src="/images/doctor_2.png"></div>
                 <h4>Adjunct Assistant Professor Shawn Vasoo</h4>
                 <p>
