@@ -21,15 +21,6 @@ sections:
         - title: Our Story
           description: ""
           url: ""
-  - infopic:
-      title: Strong, trusted and united in keeping Singapore safe
-      id: infopic
-      description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-        nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-        reprehenderit .
-      url: /page-url
-      image: /images/graphic_2.png
-      alt: Image alt text
   - resources:
       title: News & Happenings
       subtitle: EXPLORE
