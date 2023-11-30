@@ -2,7 +2,6 @@ collections:
   for-professionals:
     output: true
     order:
-      - Our Departments.md
       - Leadership.md
       - Our Doctors.md
       - CDA Yearbook.md
