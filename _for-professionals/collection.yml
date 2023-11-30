@@ -2,7 +2,6 @@ collections:
   for-professionals:
     output: true
     order:
-      - Leadership.md
       - Our Doctors.md
       - CDA Yearbook.md
       - Infectious Disease Intelligence.md
