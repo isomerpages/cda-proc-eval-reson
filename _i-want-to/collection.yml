@@ -1,0 +1,7 @@
+collections:
+  i-want-to:
+    output: true
+    order:
+      - Find A Doctor.md
+      - Find Diseases and Conditions.md
+      - Contact CDA.md

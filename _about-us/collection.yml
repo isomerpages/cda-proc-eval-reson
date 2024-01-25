@@ -1,0 +1,11 @@
+collections:
+  about-us:
+    output: true
+    order:
+      - About CDA.md
+      - Our Mission, Vision, Values.md
+      - What We Do.md
+      - CDA News.md
+      - Careers.md
+      - Useful Links.md
+      - Contact Us.md

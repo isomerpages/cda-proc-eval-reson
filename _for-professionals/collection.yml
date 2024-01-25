@@ -1,0 +1,7 @@
+collections:
+  for-professionals:
+    output: true
+    order:
+      - Our Doctors.md
+      - Lorem Ipsum.md
+      - Sit Amet Dolor.md

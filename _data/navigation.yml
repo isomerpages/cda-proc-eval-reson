@@ -1,0 +1,14 @@
+logo: /images/logo.png
+links:
+  - title: About Us
+    collection: about-us
+  - title: For General Public
+    collection: for-general-public
+  - title: For Profesionals
+    collection: for-professionals
+  - title: E-Services
+    collection: e-services
+  - title: Popular Resources
+    collection: popular-resources
+  - title: I Want To
+    collection: i-want-to

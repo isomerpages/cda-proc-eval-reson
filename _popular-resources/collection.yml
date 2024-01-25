@@ -1,0 +1,9 @@
+collections:
+  popular-resources:
+    output: true
+    order:
+      - Disease and Conditions.md
+      - Infection Control Guidelines for Healthcare Facilities.md
+      - Resources on COVID 19.md
+      - Communicable Diseases Surveillance in Singapore.md
+      - CDA Research Publications.md
