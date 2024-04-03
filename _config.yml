@@ -2,19 +2,19 @@ title: Lorem Ipsum
 url: https://www.open.gov.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#2d3191"
-  secondary-color: "#797ccb"
+  primary-color: "#343a40"
+  secondary-color: "#6c757d"
   media-colors:
     - title: media-color-one
-      color: "#49759a"
+      color: "#595959"
     - title: media-color-two
-      color: "#744d9f"
+      color: "#7f7f7f"
     - title: media-color-three
-      color: "#00838f"
+      color: "#595959"
     - title: media-color-four
-      color: "#00838f"
+      color: "#7f7f7f"
     - title: media-color-five
-      color: "#00838f"
+      color: "#595959"
 description: An Isomer site of the Singapore Government
 permalink: none
 baseurl: ""
