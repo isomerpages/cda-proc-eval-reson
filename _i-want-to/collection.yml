@@ -1,5 +1,4 @@
 collections:
   i-want-to:
     output: true
-    order:
-      - Contact CDA.md
+    order: []
