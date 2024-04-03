@@ -52,7 +52,7 @@ plugins:
 staging: https://staging.d2jr4t9suwtbs8.amplifyapp.com
 prod: https://master.deo2xw8oyf3q8.amplifyapp.com
 facebook-pixel: ""
-shareicon: /images/isomer-logo.svg
+shareicon: /images/cda_logo.png
 is_government: false
 google_analytics_ga4: ""
 linkedin-insights: ""
