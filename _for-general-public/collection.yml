@@ -2,6 +2,7 @@ collections:
   for-general-public:
     output: true
     order:
+      - Antimicrobial Resistance.md
       - One Health.md
       - Infection prevention and control.md
       - Vaccinations.md
