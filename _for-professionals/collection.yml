@@ -2,14 +2,14 @@ collections:
   for-professionals:
     output: true
     order:
-      - Travel Health.md
-      - Contact Transmissible and Other Diseases.md
-      - Vector Borne Diseases.md
-      - Foodborne Diseases.md
-      - Airborne and Droplet Borne Diseases.md
-      - National TB Programme.md
-      - National HIV, STI and Viral Hepatitis Programme.md
-      - Healthcare Epidemiology Team.md
-      - Infectious Diseases Surveillance in Singapore.md
-      - Professional Training.md
       - Overview.md
+      - Professional Training.md
+      - Infectious Diseases Surveillance in Singapore.md
+      - Healthcare Epidemiology Team.md
+      - National HIV, STI and Viral Hepatitis Programme.md
+      - National TB Programme.md
+      - Airborne and Droplet Borne Diseases.md
+      - Foodborne Diseases.md
+      - Vector Borne Diseases.md
+      - Contact Transmissible and Other Diseases.md
+      - Travel Health.md
