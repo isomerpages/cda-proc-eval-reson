@@ -2,5 +2,5 @@ collections:
   datas:
     output: true
     order:
-      - Data 2.md
       - Data 1.md
+      - Data 2.md
