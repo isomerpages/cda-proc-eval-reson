@@ -7,7 +7,7 @@ links:
   - title: News & Events
     collection: news-and-events
   - title: Who We Are
-    url: /
+    url: /about-cda/who-we-are/
     sublinks:
       - title: Overview
         url: /about-cda/who-we-are/
