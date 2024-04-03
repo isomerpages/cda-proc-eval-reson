@@ -1,5 +1,5 @@
 collections:
-  about-us:
+  about-cda:
     output: true
     order:
       - Contact Us.md
