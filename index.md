@@ -2,7 +2,7 @@
 layout: homepage
 title: Lorem Ipsum
 description: An Isomer site of the Singapore Government
-image: /images/isomer-logo.svg
+image: /images/cda_logo.png
 permalink: /
 notification: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
   eiusmod tempor incididunt ut labore et dolore magna aliqua.
