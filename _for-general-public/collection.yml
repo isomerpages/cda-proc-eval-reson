@@ -2,16 +2,16 @@ collections:
   for-general-public:
     output: true
     order:
-      - FAQ.md
-      - Travel Health.md
-      - Contact Transmissible and Other Diseases.md
-      - Vector Borne Diseases.md
-      - Foodborne Diseases.md
-      - Airborne and Droplet Borne Diseases.md
-      - National TB Programme.md
-      - National HIV, STI and Viral Hepatitis Programme.md
-      - Antimicrobial Resistance.md
-      - One Health.md
-      - Infection prevention and control.md
-      - Vaccinations.md
       - Overview.md
+      - Vaccinations.md
+      - Infection prevention and control.md
+      - One Health.md
+      - Antimicrobial Resistance.md
+      - National HIV, STI and Viral Hepatitis Programme.md
+      - National TB Programme.md
+      - Airborne and Droplet Borne Diseases.md
+      - Foodborne Diseases.md
+      - Vector Borne Diseases.md
+      - Contact Transmissible and Other Diseases.md
+      - Travel Health.md
+      - FAQ.md
