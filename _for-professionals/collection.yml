@@ -1,5 +1,4 @@
 collections:
   for-professionals:
     output: true
-    order:
-      - Lorem Ipsum.md
+    order: []
