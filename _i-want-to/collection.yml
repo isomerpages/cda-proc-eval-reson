@@ -2,5 +2,5 @@ collections:
   i-want-to:
     output: true
     order:
-      - E Service 02.md
       - E Service 01.md
+      - E Service 02.md
