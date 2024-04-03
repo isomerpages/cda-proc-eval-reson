@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Weekly Bulletin on CD.md
       - Events.md
       - Press Releases.md
       - News.md
