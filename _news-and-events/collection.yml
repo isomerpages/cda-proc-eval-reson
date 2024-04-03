@@ -2,5 +2,6 @@ collections:
   news-and-events:
     output: true
     order:
+      - Events.md
       - Press Releases.md
       - News.md
