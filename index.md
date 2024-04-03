@@ -25,7 +25,7 @@ sections:
           url: cda-research/
         - title: Data
           description: ""
-          url: ""
+          url: /data-1
   - announcements:
       title: Announcements
       id: announcements
