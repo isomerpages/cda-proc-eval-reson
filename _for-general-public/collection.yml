@@ -2,6 +2,7 @@ collections:
   for-general-public:
     output: true
     order:
+      - FAQ.md
       - Travel Health.md
       - Contact Transmissible and Other Diseases.md
       - Vector Borne Diseases.md
