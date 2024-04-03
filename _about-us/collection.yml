@@ -2,7 +2,6 @@ collections:
   about-us:
     output: true
     order:
-      - CDA News.md
       - Careers.md
       - Useful Links.md
       - Contact Us.md
