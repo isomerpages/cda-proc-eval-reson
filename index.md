@@ -65,21 +65,32 @@ sections:
         nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
         reprehenderit.
       url: /
-      image: /images/graphic_2.png
+      image: /images/4_3.png
       alt: Image alt text
       subtitle: sitamet consectetur adipiscing
       button: Lorem ipsum
+  - infopic:
+      title: Infopic
+      subtitle: SITAMET CONSECTETUR ADIPISCING
+      id: infopic
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+        minim veniam, quis noster
+      button: LOREM IPSUM
+      url: /
+      image: /images/4_3.png
+      alt: Image alt text
   - infobar:
-      title: Lorem ipsum dolor si met un vector file gamut
-      subtitle: ENIM NOSTRODIAC
-      description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-        nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-        reprehend.
+      title: Infobar
+      subtitle: SITAMET CONSECTETUR ADIPISCING
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+        minim veniam, quis noster
       button: LOREM IPSUM
       url: /page-url
   - textcards:
       title: Text Cards
-      subtitle: Lorem Ipsum Dolor
+      subtitle: SITAMET CONSECTETUR ADIPIS
       id: textcards
       description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
         eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
@@ -101,12 +112,57 @@ sections:
           description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
           linktext: Learn more
           url: ""
+  - infobar:
+      title: Infobar
+      subtitle: SITAMET CONSECTETUR ADIPISCING
+      id: infobar
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+        minim veniam, quis noster
   - infocols:
       title: Info-columns
       subtitle: SITAMET CONSECTETUR ADIPIS
       id: infocols
       linktext: Learn more
       url: /
+      infoboxes:
+        - title: Lorem Ipsum Dolor
+          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+            accusantium doloremque laudantium, totam rem aperiam.
+        - title: Lorem Ipsum Dolor
+          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+            accusantium doloremque laudantium, totam rem aperiam.
+        - title: Lorem Ipsum Dolor
+          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+            accusantium doloremque laudantium, totam rem aperiam.
+        - title: Lorem Ipsum Dolor
+          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+            accusantium doloremque laudantium, totam rem aperiam.
+  - textcards:
+      title: Text Cards
+      subtitle: LOREM IPSUM DOLOR
+      id: textcards
+      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
+        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
+        minim veniam, quis nosterLorem ipsum dolor sit amet.
+      cards:
+        - title: Lorem Ipsum Dolor
+          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          linktext: Learn more
+          url: ""
+        - title: Lorem Ipsum Dolor
+          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          linktext: Learn more
+          url: ""
+        - title: Lorem Ipsum Dolor
+          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          linktext: Learn more
+          url: ""
+  - infocols:
+      title: Info-columns
+      subtitle: SITAMET CONSECTETUR ADIPIS
+      id: infocols
+      linktext: Learn more
       infoboxes:
         - title: Lorem Ipsum Dolor
           description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
