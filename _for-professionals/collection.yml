@@ -3,4 +3,3 @@ collections:
     output: true
     order:
       - Lorem Ipsum.md
-      - Sit Amet Dolor.md
