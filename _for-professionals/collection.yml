@@ -2,4 +2,5 @@ collections:
   for-professionals:
     output: true
     order:
+      - Professional Training.md
       - Overview.md
