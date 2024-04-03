@@ -2,6 +2,7 @@ collections:
   for-professionals:
     output: true
     order:
+      - Travel Health.md
       - Contact Transmissible and Other Diseases.md
       - Vector Borne Diseases.md
       - Foodborne Diseases.md
