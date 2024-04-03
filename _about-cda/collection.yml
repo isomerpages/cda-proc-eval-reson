@@ -2,4 +2,5 @@ collections:
   about-cda:
     output: true
     order:
+      - Who We Are.md
       - Contact Us.md
