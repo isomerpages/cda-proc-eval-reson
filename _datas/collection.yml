@@ -1,4 +1,5 @@
 collections:
   datas:
     output: true
-    order: []
+    order:
+      - Data 1.md
