@@ -2,6 +2,7 @@ collections:
   for-professionals:
     output: true
     order:
+      - Foodborne Diseases.md
       - Airborne and Droplet Borne Diseases.md
       - National TB Programme.md
       - National HIV, STI and Viral Hepatitis Programme.md
