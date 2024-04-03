@@ -2,5 +2,4 @@ collections:
   i-want-to:
     output: true
     order:
-      - Find Diseases and Conditions.md
       - Contact CDA.md
