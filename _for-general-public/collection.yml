@@ -2,5 +2,6 @@ collections:
   for-general-public:
     output: true
     order:
+      - Infection prevention and control.md
       - Vaccinations.md
       - Overview.md
