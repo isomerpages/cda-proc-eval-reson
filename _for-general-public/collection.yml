@@ -2,4 +2,5 @@ collections:
   for-general-public:
     output: true
     order:
+      - Vaccinations.md
       - Overview.md
