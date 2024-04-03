@@ -2,4 +2,5 @@ collections:
   e-services:
     output: true
     order:
+      - E Service 02.md
       - E Service 01.md
