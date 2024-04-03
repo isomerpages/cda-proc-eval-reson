@@ -2,6 +2,7 @@ collections:
   for-general-public:
     output: true
     order:
+      - Vector Borne Diseases.md
       - Foodborne Diseases.md
       - Airborne and Droplet Borne Diseases.md
       - National TB Programme.md
