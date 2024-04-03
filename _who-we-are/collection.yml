@@ -1,5 +1,5 @@
 collections:
-  about-cda:
+  who-we-are:
     output: true
     order:
       - Who We Are.md
