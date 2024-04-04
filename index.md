@@ -22,7 +22,7 @@ sections:
           url: ""
         - title: Research
           description: ""
-          url: cda-research/
+          url: /cda-research/
         - title: Data
           description: ""
           url: /data-1
