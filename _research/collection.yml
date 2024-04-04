@@ -2,4 +2,5 @@ collections:
   research:
     output: true
     order:
+      - National Infectious Diseases Research.md
       - CDA Research.md
