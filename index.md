@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Lorem Ipsum
+title: Title
 description: An Isomer site of the Singapore Government
 image: /images/cda_logo.png
 permalink: /
