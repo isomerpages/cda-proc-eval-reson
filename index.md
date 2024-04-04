@@ -26,6 +26,21 @@ sections:
         - title: Data
           description: ""
           url: /data-1
+  - infocols:
+      title: Info-columns
+      subtitle: SITAMET CONSECTETUR ADIPIS
+      id: infocols
+      linktext: Learn more
+      infoboxes:
+        - title: Lorem Ipsum Dolor
+          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+            accusantium doloremque laudantium, totam rem aperiam.
+        - title: Lorem Ipsum Dolor
+          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+            accusantium doloremque laudantium, totam rem aperiam.
+        - title: Lorem Ipsum Dolor
+          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
+            accusantium doloremque laudantium, totam rem aperiam.
   - announcements:
       title: Announcements
       id: announcements
@@ -158,19 +173,4 @@ sections:
           description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
           linktext: Learn more
           url: ""
-  - infocols:
-      title: Info-columns
-      subtitle: SITAMET CONSECTETUR ADIPIS
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
 ---
