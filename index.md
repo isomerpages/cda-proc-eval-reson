@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: Title
+title: CDA Test Site
 description: An Isomer site of the Singapore Government
 image: /images/cda_logo.png
 permalink: /
