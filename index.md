@@ -10,22 +10,18 @@ sections:
   - hero:
       title: Lorem Ipsum Dolor
       background: /images/grey_opacity.png
-      button: Lorem Ipsum
-      url: /
       subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco.
-      key_highlights:
-        - title: Ongoing Outbreaks
-          description: ""
-          url: /ongoing-outbreaks
-        - title: National Public Health Laboratory
-          description: ""
-          url: ""
-        - title: Research
-          description: ""
-          url: /cda-research/
-        - title: Data
-          description: ""
-          url: /data-1
+      dropdown:
+        title: HIGHLIGHTS
+        options:
+          - title: ONGOING OUTBREAKS
+            url: /ongoing-outbreaks/
+          - title: NATIONAL PUBLIC HEALTH LAB
+            url: /
+          - title: Research
+            url: /cda-research/
+          - title: DATA
+            url: /data-1/
   - infocols:
       title: Info-columns
       subtitle: SITAMET CONSECTETUR ADIPIS
