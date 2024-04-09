@@ -2,8 +2,8 @@ title: CDA Test Site
 url: https://www.relevance.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#fa9955"
-  secondary-color: "#0e5ba9"
+  primary-color: "#595959"
+  secondary-color: "#7f7f7f"
   media-colors:
     - title: media-color-one
       color: "#595959"
