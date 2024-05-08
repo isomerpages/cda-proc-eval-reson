@@ -2,6 +2,7 @@ collections:
   for-professionals:
     output: true
     order:
+      - Diseases/Foodborne Diseases.md
       - Diseases/Vector Borne Diseases.md
       - Diseases/Contact Transmissible and Other Diseases.md
       - Diseases/.keep
