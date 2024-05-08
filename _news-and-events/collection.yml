@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Outbreak Updates/Ongoing Outbreaks.md
       - Outbreak Updates/Emergency Response Plan.md
       - Outbreak Updates/Archives.md
       - Outbreak Updates/Outbreak Updates.md
