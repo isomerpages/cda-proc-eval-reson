@@ -2,6 +2,7 @@ collections:
   for-professionals:
     output: true
     order:
+      - Vaccinations.md
       - Overview.md
       - Professional Training.md
       - One Health.md
