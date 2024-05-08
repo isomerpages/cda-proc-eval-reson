@@ -2,6 +2,7 @@ collections:
   news-and-events:
     output: true
     order:
+      - Newsroom/CDA in the News.md
       - Newsroom/Media Releases.md
       - Newsroom/.keep
       - Outbreak Updates/Ongoing Outbreaks.md
