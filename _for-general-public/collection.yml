@@ -2,6 +2,7 @@ collections:
   for-general-public:
     output: true
     order:
+      - Diseases/HIV (Human Immunodeficiency Virus).md
       - Diseases/Contact Transmissible and Other Diseases.md
       - Diseases/Vector Borne Diseases.md
       - Diseases/Foodborne Diseases.md
