@@ -4,26 +4,13 @@ links:
     collection: for-general-public
   - title: For Profesionals
     collection: for-professionals
-  - title: " OUR PROGRAMMES"
+  - title: OUR PROGRAMMES
     collection: our-programmes
   - title: NPHL AND RESEARCH
     collection: nphl-and-research
   - title: News & Events
     collection: news-and-events
   - title: About CDA
-    url: /about-cda/who-we-are/
-    sublinks:
-      - title: Overview
-        url: /about-cda/who-we-are/
-      - title: Careers
-        url: https://www.careers.gov.sg/
-      - title: Publications
-        url: /about-cda/publications/
-      - title: International Work
-        url: /about-cda/international-work
-      - title: Useful Links
-        url: /
-      - title: Contact Us
-        url: /about-cda/contact-us
+    collection: who-we-are
   - title: I Want To
     collection: i-want-to
