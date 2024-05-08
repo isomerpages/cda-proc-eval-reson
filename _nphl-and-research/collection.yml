@@ -2,6 +2,7 @@ collections:
   nphl-and-research:
     output: true
     order:
+      - National Public Health Lab.md
       - CDA Research.md
       - National Infectious Diseases Research.md
       - Research Strategy & Coordination.md
