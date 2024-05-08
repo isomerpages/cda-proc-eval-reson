@@ -2,9 +2,9 @@ collections:
   for-professionals:
     output: true
     order:
-      - Vaccinations.md
       - Overview.md
       - Professional Training.md
+      - Vaccinations.md
       - One Health.md
       - Diseases/.keep
       - Diseases/HIV (Human Immunodeficiency Virus).md
