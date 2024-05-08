@@ -2,15 +2,15 @@ collections:
   for-general-public:
     output: true
     order:
-      - Diseases/Tuberculosis.md
-      - Diseases/Viral Hepatitis.md
-      - Diseases/STI (Sexually Transmitted Infection).md
-      - Diseases/HIV (Human Immunodeficiency Virus).md
-      - Diseases/Contact Transmissible and Other Diseases.md
-      - Diseases/Vector Borne Diseases.md
-      - Diseases/Foodborne Diseases.md
-      - Diseases/Airborne and Droplet Borne Diseases.md
       - Diseases/.keep
+      - Diseases/HIV (Human Immunodeficiency Virus).md
+      - Diseases/STI (Sexually Transmitted Infection).md
+      - Diseases/Viral Hepatitis.md
+      - Diseases/Tuberculosis.md
+      - Diseases/Airborne and Droplet Borne Diseases.md
+      - Diseases/Foodborne Diseases.md
+      - Diseases/Vector Borne Diseases.md
+      - Diseases/Contact Transmissible and Other Diseases.md
       - Overview.md
       - Vaccinations.md
       - Infection prevention and control.md
