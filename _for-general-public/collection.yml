@@ -2,6 +2,8 @@ collections:
   for-general-public:
     output: true
     order:
+      - Overview.md
+      - Vaccinations.md
       - Diseases/.keep
       - Diseases/HIV (Human Immunodeficiency Virus).md
       - Diseases/STI (Sexually Transmitted Infection).md
@@ -11,6 +13,4 @@ collections:
       - Diseases/Foodborne Diseases.md
       - Diseases/Vector Borne Diseases.md
       - Diseases/Contact Transmissible and Other Diseases.md
-      - Overview.md
-      - Vaccinations.md
       - Travel Health.md
