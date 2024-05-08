@@ -2,6 +2,7 @@ collections:
   nphl-and-research:
     output: true
     order:
+      - National Public Health Lab/Our People.md
       - National Public Health Lab/Laboratory Analytical Methods.md
       - National Public Health Lab/Laboratory Programmes.md
       - National Public Health Lab/.keep
