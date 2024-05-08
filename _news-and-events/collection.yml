@@ -2,9 +2,9 @@ collections:
   news-and-events:
     output: true
     order:
-      - Publications.md
-      - Data and Statistics.md
-      - Weekly Bulletin on CD.md
       - Events.md
+      - Publications.md
+      - Weekly Bulletin on CD.md
+      - Data and Statistics.md
       - Press Releases.md
       - News.md
