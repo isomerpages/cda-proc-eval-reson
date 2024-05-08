@@ -4,9 +4,13 @@ links:
     collection: for-general-public
   - title: For Profesionals
     collection: for-professionals
+  - title: " OUR PROGRAMMES"
+    collection: our-programmes
+  - title: NPHL AND RESEARCH
+    collection: nphl-and-research
   - title: News & Events
     collection: news-and-events
-  - title: Who We Are
+  - title: About CDA
     url: /about-cda/who-we-are/
     sublinks:
       - title: Overview
