@@ -2,6 +2,7 @@ collections:
   for-general-public:
     output: true
     order:
+      - Diseases/Tuberculosis.md
       - Diseases/Viral Hepatitis.md
       - Diseases/STI (Sexually Transmitted Infection).md
       - Diseases/HIV (Human Immunodeficiency Virus).md
