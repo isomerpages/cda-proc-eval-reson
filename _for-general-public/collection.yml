@@ -2,6 +2,7 @@ collections:
   for-general-public:
     output: true
     order:
+      - Diseases/Vector Borne Diseases.md
       - Diseases/Foodborne Diseases.md
       - Diseases/Airborne and Droplet Borne Diseases.md
       - Diseases/.keep
