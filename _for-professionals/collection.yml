@@ -2,6 +2,10 @@ collections:
   for-professionals:
     output: true
     order:
+      - Overview.md
+      - Professional Training.md
+      - One Health.md
+      - Diseases/.keep
       - Diseases/HIV (Human Immunodeficiency Virus).md
       - Diseases/STI (Sexually Transmitted Infection).md
       - Diseases/Viral Hepatitis.md
@@ -10,12 +14,8 @@ collections:
       - Diseases/Foodborne Diseases.md
       - Diseases/Vector Borne Diseases.md
       - Diseases/Contact Transmissible and Other Diseases.md
-      - Diseases/.keep
-      - One Health.md
-      - Overview.md
-      - Professional Training.md
-      - Infectious Diseases Surveillance in Singapore.md
       - Healthcare Epidemiology Team.md
-      - National HIV, STI and Viral Hepatitis Programme.md
-      - National TB Programme.md
       - Travel Health.md
+      - Infectious Diseases Surveillance in Singapore.md
+      - National TB Programme.md
+      - National HIV, STI and Viral Hepatitis Programme.md
