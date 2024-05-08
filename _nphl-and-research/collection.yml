@@ -2,4 +2,5 @@ collections:
   nphl-and-research:
     output: true
     order:
+      - National Infectious Diseases Research.md
       - Research Strategy & Coordination.md
