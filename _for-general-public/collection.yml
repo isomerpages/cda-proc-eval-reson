@@ -2,6 +2,7 @@ collections:
   for-general-public:
     output: true
     order:
+      - Diseases/Contact Transmissible and Other Diseases.md
       - Diseases/Vector Borne Diseases.md
       - Diseases/Foodborne Diseases.md
       - Diseases/Airborne and Droplet Borne Diseases.md
