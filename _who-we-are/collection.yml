@@ -2,8 +2,8 @@ collections:
   who-we-are:
     output: true
     order:
-      - Careers.md
       - Who We Are.md
+      - Careers.md
       - Publications.md
       - International Work.md
       - Contact Us.md
