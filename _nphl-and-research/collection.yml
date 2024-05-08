@@ -1,4 +1,5 @@
 collections:
   nphl-and-research:
     output: true
-    order: []
+    order:
+      - Research Strategy & Coordination.md
