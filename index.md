@@ -72,9 +72,6 @@ sections:
   - infopic:
       title: Infopic
       id: infopic
-      description: Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris
-        nisi ut aliquip ex ea commodo consequat. Duis aute irure dolor in
-        reprehende
       url: /
       image: /images/4_3.png
       alt: Image alt text
