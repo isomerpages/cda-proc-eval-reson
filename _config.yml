@@ -3,7 +3,7 @@ url: https://www.relevance.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
   primary-color: "#fa9955"
-  secondary-color: "#0e5ba9"
+  secondary-color: "#9b9b9b"
   media-colors:
     - title: media-color-one
       color: "#d0021b"
