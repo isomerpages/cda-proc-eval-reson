@@ -4,8 +4,9 @@ title: CDA Test Site
 description: An Isomer site of the Singapore Government
 image: /images/cda_logo.png
 permalink: /
-notification: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-  eiusmod tempor incididunt ut labore et dolore magna aliqua.
+notification: 'Test <a href="/bird-flu-outbreak-in-southeast-asia/">Alert: Bird
+  flu outbreak in several parts of Southeast Asia. Click to learn how you can
+  protect yourself! </a>'
 sections:
   - hero:
       title: Lorem Ipsum Dolor
