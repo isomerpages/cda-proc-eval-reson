@@ -12,17 +12,6 @@ sections:
       title: Lorem Ipsum Dolor
       background: /images/grey_opacity.png
       subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco.
-      dropdown:
-        title: HIGHLIGHTS
-        options:
-          - title: ONGOING OUTBREAKS
-            url: /ongoing-outbreaks/
-          - title: NATIONAL PUBLIC HEALTH LAB
-            url: /
-          - title: Research
-            url: /cda-research/
-          - title: DATA
-            url: /data-1/
   - infocols:
       title: Info-columns
       subtitle: SITAMET CONSECTETUR ADIPIS
