@@ -7,51 +7,29 @@ permalink: /
 notification: "Alert: Bird flu outbreak in several parts of Southeast Asia."
 sections:
   - hero:
-      title: Lorem Ipsum Dolor
+      title: Protecting Health and Saving Lives
       background: /images/grey_opacity.png
-      subtitle: Ut enim ad minim veniam, quis nostrud exercitation ullamco.
-  - infocols:
-      title: Info-columns
-      subtitle: SITAMET CONSECTETUR ADIPIS
-      id: infocols
-      linktext: Learn more
-      infoboxes:
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
   - announcements:
-      title: Announcements
+      title: UPDATES
       id: announcements
-      subtitle: Ut enim ad minim veniam quiSET
       announcement_items:
-        - title: Lorem ipsum dolor sit amet
+        - title: Dengue Screening
           date: 21 March 2024
-          announcement: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam.
-          link_text: Excepteur Sint Occaecat
+          announcement: Get screened at a polyclinic near you.
+          link_text: Learn more
           link_url: /
-        - title: Excepteur Sint Occaecat
+        - title: Travel Advisory
           date: 21 March 2024
-          announcement: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam, eaque ipsa
-            quae ab illo inventore veritatis et quasi architecto beatae vitae
-            dicta sunt explicabo.
-          link_text: ""
-          link_url: ""
-        - title: Sed ut perspiciatis unde omnis
+          announcement: Zika virus outbreak in parts of South America. Get travel advisory
+            updates below.
+          link_text: Learn more
+          link_url: /
+        - title: New COVID-19 Booster Available
           date: 21 March 2024
-          announcement: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-            eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim
-            ad minim veniam.
-          link_text: ""
-          link_url: ""
+          announcement: The latest bivalent booster shot is now available for eligible
+            individuals.
+          link_text: Learn more
+          link_url: /
   - resources:
       title: Resources
       subtitle: UT ENIM AD MINIM VENIAM
