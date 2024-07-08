@@ -1,6 +1,6 @@
 ---
 layout: homepage
-title: CDA Test Site
+title: Staging Site 3
 description: An Isomer site of the Singapore Government
 image: /images/cda_logo.png
 permalink: /
