@@ -7,10 +7,12 @@ permalink: /
 notification: "Alert: Bird flu outbreak in several parts of Southeast Asia."
 sections:
   - hero:
-      title: Protecting Health and Saving Lives
+      title: Protecting Singapore from communicable diseases
       background: /images/grey_opacity.png
+      button: About CDA
+      url: /
   - announcements:
-      title: UPDATES
+      title: Updates
       id: announcements
       announcement_items:
         - title: Dengue Screening
@@ -31,10 +33,27 @@ sections:
           link_text: Learn more
           link_url: /
   - resources:
-      title: Resources
+      title: News and Events
       subtitle: UT ENIM AD MINIM VENIAM
       id: resources
       button: SEE ALL
+  - textcards:
+      title: Insightful Analytics
+      subtitle: DATA & STATISTICS
+      id: textcards
+      cards:
+        - title: Weekly Infectious Diseases Bulletin
+          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          linktext: Learn more
+          url: ""
+        - title: National Research Foundation Grants
+          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          linktext: Learn more
+          url: ""
+        - title: Antimicrobial Resistance
+          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
+          linktext: Learn more
+          url: ""
   - infopic:
       title: Infopic
       id: infopic
@@ -53,82 +72,4 @@ sections:
       url: /
       image: /images/4_3.png
       alt: Image alt text
-  - infobar:
-      title: Infobar
-      subtitle: SITAMET CONSECTETUR ADIPISCING
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis noster
-      button: LOREM IPSUM
-      url: /page-url
-  - textcards:
-      title: Text Cards
-      subtitle: SITAMET CONSECTETUR ADIPIS
-      id: textcards
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis nosterLorem ipsum dolor sit amet.
-      cards:
-        - title: Lorem Ipsum Dolor
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: ""
-        - title: Lorem Ipsum Dolor
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: ""
-        - title: Lorem Ipsum Dolor
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: ""
-        - title: Lorem Ipsum Dolor
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: ""
-  - infobar:
-      title: Infobar
-      subtitle: SITAMET CONSECTETUR ADIPISCING
-      id: infobar
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis noster
-  - infocols:
-      title: Info-columns
-      subtitle: SITAMET CONSECTETUR ADIPIS
-      id: infocols
-      linktext: Learn more
-      url: /
-      infoboxes:
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
-        - title: Lorem Ipsum Dolor
-          description: Sed ut perspiciatis unde omnis iste natus error sit voluptatem
-            accusantium doloremque laudantium, totam rem aperiam.
-  - textcards:
-      title: Text Cards
-      subtitle: LOREM IPSUM DOLOR
-      id: textcards
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis nosterLorem ipsum dolor sit amet.
-      cards:
-        - title: Lorem Ipsum Dolor
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: ""
-        - title: Lorem Ipsum Dolor
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: ""
-        - title: Lorem Ipsum Dolor
-          description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
-          linktext: Learn more
-          url: ""
 ---
