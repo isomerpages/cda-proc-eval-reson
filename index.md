@@ -34,15 +34,13 @@ sections:
           link_url: /
   - resources:
       title: News and Events
-      subtitle: UT ENIM AD MINIM VENIAM
       id: resources
       button: SEE ALL
   - textcards:
-      title: Insightful Analytics
-      subtitle: DATA & STATISTICS
+      title: DATA & STATISTICS
       id: textcards
       cards:
-        - title: Weekly Infectious Diseases Bulletin
+        - title: Vector Borne Diseases (VBDs)
           description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do.
           linktext: Learn more
           url: ""
@@ -55,21 +53,33 @@ sections:
           linktext: Learn more
           url: ""
   - infopic:
-      title: Infopic
+      title: HIV Self-testing Kit Launched
       id: infopic
       url: /
-      image: /images/4_3.png
+      image: /images/infopic_hiv.jpg
       alt: Image alt text
-      button: Lorem ipsum
+      button: GET A HIV SELF-TEST TODAY
+      subtitle: GET STARTED
+      description: Anyone who wants to know their HIV status are encouraged to get tested.
   - infopic:
-      title: Infopic
-      subtitle: SITAMET CONSECTETUR ADIPISCING
+      title: National Public Health Laboratory (NPHL)
+      subtitle: STAYING AHEAD OF THREATS
       id: infopic
-      description: Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do
-        eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad
-        minim veniam, quis noster
-      button: LOREM IPSUM
+      description: NPHL conducts laboratory investigations to support surveillance of
+        communicable diseases, control of outbreaks, and preparedness for new
+        and risky pathogens.
+      button: LEARN MORE ABOUT NPHL
       url: /
-      image: /images/4_3.png
+      image: /images/NPHL_Infopic.png
+      alt: Image alt text
+  - infopic:
+      title: End TB Together
+      subtitle: TUBERCULOSIS AWARENESS
+      id: infopic
+      description: Early diagnosis is key to treating TB effectively. Learn more about
+        the disease and its symptoms.
+      button: BROWSE CAMPAIGN RESOURCES
+      url: /
+      image: /images/TB_WIP.jpg
       alt: Image alt text
 ---
