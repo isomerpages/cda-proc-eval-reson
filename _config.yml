@@ -2,8 +2,8 @@ title: Staging Site 3
 url: https://www.relevance.com.sg
 favicon: /images/favicon-isomer.ico
 colors:
-  primary-color: "#1d63ae"
-  secondary-color: "#9a2b1f"
+  primary-color: "#c76b1c"
+  secondary-color: "#1d63ae"
   media-colors:
     - title: media-color-one
       color: "#d0021b"
