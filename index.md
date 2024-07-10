@@ -8,7 +8,7 @@ notification: "Alert: Bird flu outbreak in several parts of Southeast Asia."
 sections:
   - hero:
       title: Protecting Health and Saving Lives
-      background: /images/hero_video_1_gif.gif
+      background: /images/Anim_4.gif
       button: About CDA
       url: /
       key_highlights:
