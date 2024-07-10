@@ -7,10 +7,25 @@ permalink: /
 notification: "Alert: Bird flu outbreak in several parts of Southeast Asia."
 sections:
   - hero:
-      title: Protecting Singapore from communicable diseases
+      title: Protecting Health and Saving Lives
       background: /images/hero_video_1_gif.gif
       button: About CDA
       url: /
+      key_highlights:
+        - title: WEEKLY INFECTIOUS DISEASES BULLETIN
+          description: ""
+          url: ""
+        - title: HIV SELF-TESTING KIT
+          description: ""
+          url: ""
+        - title: PANDEMIC PREPAREDNESS
+          description: ""
+          url: ""
+  - infobar:
+      title: Communicable Diseases Agency Singapore
+      id: infobar
+      description: Protecting Singapore from communicable diseases through excellence
+        in public health expertise and capabilities.
   - announcements:
       title: Updates
       id: announcements
