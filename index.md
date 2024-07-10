@@ -62,17 +62,6 @@ sections:
       subtitle: GET STARTED
       description: Anyone who wants to know their HIV status are encouraged to get tested.
   - infopic:
-      title: National Public Health Laboratory (NPHL)
-      subtitle: STAYING AHEAD OF THREATS
-      id: infopic
-      description: NPHL conducts laboratory investigations to support surveillance of
-        communicable diseases, control of outbreaks, and preparedness for new
-        and risky pathogens.
-      button: LEARN MORE ABOUT NPHL
-      url: /
-      image: /images/NPHL_Infopic.png
-      alt: Image alt text
-  - infopic:
       title: End TB Together
       subtitle: TUBERCULOSIS AWARENESS
       id: infopic
